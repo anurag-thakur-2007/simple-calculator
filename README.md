@@ -45,7 +45,7 @@ Creating interactive UI elements using HTML & CSS
 
 Handling user input and basic validation
 
-📌 Future Improvements
+📌 Future Improvements ( which i will add soon )
 Add a backspace button
 
 Enable keyboard support
