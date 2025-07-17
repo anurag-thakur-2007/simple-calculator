@@ -36,8 +36,7 @@ No additional setup required!
 
 🌐 Live Demo
 You can try it here:
-🔗 Live Demo <!-- Replace # with your GitHub Pages link -->
-
+🔗 Live Demo https://anurag-thakur-2007.github.io/simple-calculator/
 📚 What I Learned
 Basics of JavaScript functions, DOM manipulation, and event listeners
 
